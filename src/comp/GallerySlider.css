@@ -1,0 +1,26 @@
+.gallery-container {
+  width: 100vw;
+  max-width: 100%;
+  background-color: #ffffff;
+  overflow: hidden;
+
+}
+
+.gallery-slide {
+  max-width: 100%; 
+ 
+}
+
+.card {
+  border-radius: 16px;
+  background: white;
+  
+}
+
+.card img,
+.card video {
+  width: 100%;
+  border-radius: 25px;
+  height: auto;
+  object-fit: cover;
+}
